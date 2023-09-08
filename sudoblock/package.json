@@ -1,0 +1,10 @@
+{
+  "name": "SudoBlock",
+  "uuid": "865a0c93-f8b0-4c42-a288-f7175ecf8234",
+  "creator": {
+    "version": "3.7.2"
+  },
+  "dependencies": {
+    "@onechaintech/gamesdk-dev": "^0.0.13"
+  }
+}
